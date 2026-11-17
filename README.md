@@ -59,34 +59,19 @@ For DevOps I use Git and GitHub to manage code and Docker to run everything in i
 
 <p align="center">
   <a href="https://github.com/i2tt/Discord-Quest-Completer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i2tt&repo=Discord-Quest-Completer&theme=dark&hide_border=true&bg_color=0d0d0d" />
+    <img width="400" src="https://opengraph.githubassets.com/1/i2tt/Discord-Quest-Completer" />
   </a>
   <a href="https://github.com/i2tt/Raven-Store-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i2tt&repo=Raven-Store-Website&theme=dark&hide_border=true&bg_color=0d0d0d" />
+    <img width="400" src="https://opengraph.githubassets.com/1/i2tt/Raven-Store-Website" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/i2tt/CyperAgent-Quest-Notifications">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i2tt&repo=CyperAgent-Quest-Notifications&theme=dark&hide_border=true&bg_color=0d0d0d" />
+    <img width="400" src="https://opengraph.githubassets.com/1/i2tt/CyperAgent-Quest-Notifications" />
   </a>
   <a href="https://github.com/i2tt/CyperAgent-Dm-Cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=i2tt&repo=CyperAgent-Dm-Cleaner&theme=dark&hide_border=true&bg_color=0d0d0d" />
+    <img width="400" src="https://opengraph.githubassets.com/1/i2tt/CyperAgent-Dm-Cleaner" />
   </a>
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=i2tt&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2tt&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=i2tt&theme=dark&hide_border=true&background=0d0d0d" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=i2tt&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
